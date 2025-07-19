@@ -1,0 +1,15 @@
+{
+  "name": "Coby Coin",
+  "symbol": "CBY", 
+  "description": "A revolutionary meme coin",
+  "image": "https://your-image-url.com/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://public.bnbstatic.com/static/academy/uploads/821e1f22f90f4e5aace520a6b1e7ba86.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}
